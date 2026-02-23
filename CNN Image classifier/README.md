@@ -225,8 +225,14 @@ Confidence: 98.34%
 
 ---
 
+## 📸 Streamlit Interface Screenshots
+(\images\Screenshot 2026-02-23 224609.png)
+(\images\Screenshot 2026-02-23 224544.png)
+
+
 ## 👨‍💻 Author
 
 [Harini VK]
+
 
 AIML Activity Submission
